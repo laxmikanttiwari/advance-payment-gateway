@@ -15,7 +15,7 @@
 
 $(function () {
 jQuery('#advance_gateway_accounts').on('click', 'a.add', function () {
-    alert("testig");
+  
 var size = jQuery('#advance_gateway_accounts').find('tbody .account').length;
 jQuery('<tr class="account">\
 <td class="sort"></td>\
