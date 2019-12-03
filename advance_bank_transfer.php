@@ -428,20 +428,7 @@ function advance_payment_init_gateway_class() {
             $filename = $_FILES['file']['name'];
             if (!function_exists('wp_handle_upload')) {
                 require_once(ABSPATH . 'wp-admin/includes/file.php');
-//                require_once( ABSPATH . 'wp-admin/includes/image.php' );
             }
-
-//            $attachment = array(
-//                'guid' => $wp_upload_dir['url'] . '/' . basename($filename),
-//                'post_mime_type' => $filetype['type'],
-//                'post_title' => preg_replace('/\.[^.]+$/', '', basename($filename)),
-//                'post_content' => '',
-//                'post_status' => 'inherit'
-//            );
-//            $attach_id = wp_insert_attachment($attachment, $filename, '');
-//            $attach_data = wp_generate_attachment_metadata($attach_id, $filename);
-//            wp_update_attachment_metadata($attach_id, $attach_data);
-
 
             $upload_overrides = array('test_form' => false);
             $response = array();
