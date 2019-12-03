@@ -1,8 +1,8 @@
 <?php
 /*
  * Plugin Name: Advance Bank Transfer
- * Plugin URI: www.test.com
- * Description: Woocommerce addon payment gateway for bank transfer
+ * Plugin URI: https://wisetr.com/
+ * Description: Woocommerce addon payment gateway for bank transfer. 
  * Author: Laxmi Kant Tiwari
  * Version: 1.0.1
  *
