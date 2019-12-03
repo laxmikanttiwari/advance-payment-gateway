@@ -1,7 +1,7 @@
 <strong>Advance Bank Transfer for WooCommerce:</strong>
 
 <h3>Description:</h3>
-Advance Bank Transfer is payment plugin for woocommerce that gives customers ability to pay using Direct Bank Transfer. Customer can also upload payment receipt at the time of order.
+Advance Bank Transfer is payment plugin for woocommerce that gives customers ability to pay using Direct Bank Transfer. Customer need to upload payment receipt at the time of order.
 
 <h3>Requirements:</h3>
 Woocommerce
